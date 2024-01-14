@@ -1,8 +1,8 @@
 package animal;
 
 public class Animal {
-    protected String name; //名前のフィールド
-    protected int age; //年齢のフィールド
+    private String name; //名前のフィールド
+    private int age; //年齢のフィールド
   
     //引数なしのコンストラクタ
     public Animal() {
